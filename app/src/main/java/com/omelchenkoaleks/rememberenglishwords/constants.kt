@@ -1,0 +1,3 @@
+package com.omelchenkoaleks.rememberenglishwords
+
+lateinit var APP_ACTIVITY: MainActivity
