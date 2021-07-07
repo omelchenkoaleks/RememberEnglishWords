@@ -1,4 +1,4 @@
-package com.omelchenkoaleks.rememberenglishwords
+package com.omelchenkoaleks.rememberenglishwords.adapters
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

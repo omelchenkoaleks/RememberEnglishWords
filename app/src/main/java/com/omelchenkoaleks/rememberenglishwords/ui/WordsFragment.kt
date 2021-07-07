@@ -7,8 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.appcompat.widget.SearchView
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.omelchenkoaleks.rememberenglishwords.R
-import com.omelchenkoaleks.rememberenglishwords.RecyclerViewWordsAdapter
+import com.omelchenkoaleks.rememberenglishwords.adapters.RecyclerViewWordsAdapter
 import com.omelchenkoaleks.rememberenglishwords.counties
 import com.omelchenkoaleks.rememberenglishwords.databinding.FragmentWordsBinding
 

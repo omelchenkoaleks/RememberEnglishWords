@@ -1,4 +1,6 @@
-package com.omelchenkoaleks.rememberenglishwords
+package com.omelchenkoaleks.rememberenglishwords.utils
+
+import com.omelchenkoaleks.rememberenglishwords.MainActivity
 
 lateinit var APP_ACTIVITY: MainActivity
 
